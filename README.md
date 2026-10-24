@@ -729,6 +729,7 @@ The service is in charge of running the servers that allow users to communicate.
 - [Threema](https://threema.com/en) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client.
 - [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
   - [🤖](#icons) [Molly](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+- [Recline](https://recline.social/) - Encrypted Discord alternative with servers, voice and video; message text is encrypted client-side, but attachments and metadata are not. No email or phone to sign up. Open beta, not independently audited; [client source](https://github.com/recline-social/recline-client) is AGPL-3.0, server is proprietary.
 
 ### P2P
 No servers involved. Everything goes directly from one peer to the other peer. No point of failure or control. The features are reduced because of the lack of server, messaging can be slower. Best option for critical chats.
